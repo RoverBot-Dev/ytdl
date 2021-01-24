@@ -1,7 +1,7 @@
 
 
 
-require(['/node_modules/ytdl-core', '/node_modules/fs', '/node_modules/JSON'], function (foo) {
+require(['ytdl-core', 'fs', 'JSON'], function (foo) {
     //foo is now loaded.
 });
 
